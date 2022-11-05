@@ -72,7 +72,7 @@
             <article class="card">
                 <i class="fas fa-pizza-slice"></i>
                 <h3>Compras en Supermercados y Restaurantes</h3>
-                <p>Le llevamos hasta la puerta de su casa sus alimentos y lo necesario para la preparación de ellos.</p>
+                <p>Le llevamos hasta la puerta de su casa, sus alimentos, y lo necesario para la preparación de ellos.</p>
                 <!-- <a href="" class="cta">Learn more</a> -->
             </article>
             <article class="card">
