@@ -14,7 +14,7 @@
     <header class="hero">
         <div class="textos-hero">
             <h1>Rapi Mandaditos</h1>
-            <p>Ofrecemos un Servicio Rápido y de Calidad!</p>
+            <p>Ofrecemos un Servicio Rápido y Seguro!</p>
             <a href="#contacto">Contáctanos dando click</a>
         </div>
         <div class="svg-hero" style="height: 150px; overflow: hidden;"><svg viewBox="0 0 500 150" preserveAspectRatio="none"
@@ -140,7 +140,7 @@
             <div class="content-foo">
                 <h4>Email</h4>
                 <p>Dale clic  <i  class="far fa-hand-point-down"></i></p>
-                <a href="mailto:luisnoe.rodriguez09@gmail.com?Subject=Interesado%20en%20el%20servicio"><i style="font-size: 35px; color: black; " class="far fa-envelope-open"></i></a> 
+                <a href="mailto:perezrigo1989@gmail.com?Subject=Interesado%20en%20el%20servicio"><i style="font-size: 35px; color: black; " class="far fa-envelope-open"></i></a> 
             </div>
            
             <div class="content-foo">
