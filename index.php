@@ -138,7 +138,7 @@
                 <p>Cel: 9391-4462</p>
             </div>
             <div class="content-foo">
-                <h4>Whatsapp</h4>
+                <h4>Email</h4>
                 <p>Dale clic  <i  class="far fa-hand-point-down"></i></p>
                 <a href="mailto:luisnoe.rodriguez09@gmail.com?Subject=Interesado%20en%20el%20servicio"><i style="font-size: 35px; color: black; " class="far fa-envelope-open"></i></a> 
             </div>
