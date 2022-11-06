@@ -119,10 +119,10 @@
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p> -->
                 <!-- <a href="" class="cta">Learn more</a> -->
             
-            <article style="width: 60%; background-color: rgb(158, 84, 179);" class="card">
+            <article style="width: 100%; background-color: rgb(158, 84, 179);" class="card">
                 <i style="color:rgb(16, 19, 19);" class="far fa-clock"></i>
-                <h3 style="font-size: 30px;">Lunes-Sábado</h3>
-                <p style="font-size: 30px;">8:00 am - 5:00 pm</p>
+                <h3 style="font-size: 25px;">Lunes-Sábado</h3>
+                <p style="font-size: 25px;">8:00 am - 5:00 pm</p>
                 <!-- <a href="" class="cta">Learn more</a> -->
             </article>
             
